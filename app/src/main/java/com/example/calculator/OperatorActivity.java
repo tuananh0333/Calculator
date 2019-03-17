@@ -79,6 +79,8 @@ public class OperatorActivity extends AppCompatActivity {
                 intent.putExtra("data", data);
 
                 intent.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
+
+                
                 startActivity(intent);
             }
         });
