@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Máy tính</string>
+    <string name="edtA_hint" translatable="false">nhập số thứ nhất...</string>
+    <string name="edtB_hint" translatable="false">nhập số thứ hai...</string>
+    <string name="btnCalculate" translatable="false">TÍNH TOÁN</string>
+    <string name="result" translatable="false">"Kết quả: "</string>
+    <string name="strChoose">Chọn một phép tính</string>
+</resources>

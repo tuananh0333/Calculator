@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="true">Calculator</string>
+    <string name="a" translatable="false">a =  </string>
+    <string name="b" translatable="false">b =  </string>
+    <string name="edtA_hint" translatable="true">input first number...</string>
+    <string name="edtB_hint" translatable="true">input second numer...</string>
+    <string name="btnCalculate" translatable="true">CALCULATE</string>
+    <string name="result" translatable="true">Result: </string>
+    <string name="strChoose" translatable="true">Choose an Operator</string>
+    <string name="btnPlus" translatable="false">+</string>
+    <string name="btnSubt" translatable="false">-</string>
+    <string name="btnMult" translatable="false">x</string>
+    <string name="btnDivi" translatable="false">÷</string>
+</resources>
